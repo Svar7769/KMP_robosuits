@@ -1,0 +1,7 @@
+robosuite
+pyperplanner
+numpy
+matplotlib
+gym
+torch
+mujoco_py  # Required by Robosuite
